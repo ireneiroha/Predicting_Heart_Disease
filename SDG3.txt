@@ -1,0 +1,27 @@
+1.SDG Context: The Growing Burden of Heart Disease in Kenya
+Cardiovascular diseases (CVDs) are a leading cause of death in Kenya, accounting for approximately 25% of hospital admissions and 13% of deaths . The prevalence of hypertension, a major risk factor for heart disease, is alarmingly high, with many individuals unaware of their condition . Lifestyle factors such as poor diet, physical inactivity, tobacco use, and excessive alcohol consumption contribute significantly to this rising health crisis .
+
+
+
+2.Problem Framing: Predicting Heart Disease Risk
+Given the escalating incidence of heart disease and the limited access to specialized healthcare services, early detection and risk stratification are crucial. However, many individuals remain undiagnosed due to a lack of awareness and screening programs. This project aims to develop a machine learning model that can predict the likelihood of heart disease in individuals based on accessible health data, enabling timely interventions and resource allocation.
+
+
+3.Prediction Goal
+The objective is to predict the presence or absence of heart disease (binary classification: 1 = presence, 0 = absence) using patient data. This prediction will assist healthcare providers in identifying high-risk individuals who may benefit from preventive measures or further diagnostic evaluations.
+
+4.Target Region: Kenya
+Focusing on Kenya allows the model to address the specific health challenges and risk factors prevalent in the region, such as:
+
+High rates of hypertension and diabetes .
+
+Limited access to healthcare facilities, especially in rural areas .
+businessdailyafrica.com
+
+Socioeconomic disparities affecting health outcomes .
+
+By tailoring the model to Kenyan demographics and healthcare infrastructure, the project aims to provide a practical tool for improving heart disease prevention and management in the country.
+
+5.Introduction
+Heart disease remains a significant public health challenge in Kenya, exacerbated by lifestyle factors and limited healthcare access. The development of a machine learning model to predict heart disease risk can bridge the gap in early detection and intervention. By leveraging patient data, such as age, blood pressure, cholesterol levels, and lifestyle habits, the model can identify individuals at high risk, facilitating timely medical attention and resource allocation. This initiative aligns with SDG 3 by aiming to reduce premature mortality from non-communicable diseases through prevention and treatment.
+

@@ -73,4 +73,4 @@ Heart disease is one of the leading causes of death globally. Early detection ca
 - Integrated **OpenWeatherMap API** to fetch current weather data (e.g., temperature and humidity).
 - Demonstrates how real-world environmental conditions can be layered into ML-based health predictions.
 
----
+
