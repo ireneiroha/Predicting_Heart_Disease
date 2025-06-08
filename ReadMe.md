@@ -65,3 +65,30 @@ This project supports **SDG 3 - Good Health and Well-Being** by demonstrating ho
 
 ## 📁 Project Structure
 
+.
+├── heart.csv # Dataset
+├── main.py # Main script to run the model
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project on your machine:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/ireneiroha/Predicting_Heart_Disease.git
+cd Predicting_Heart_Disease
+
+### 2. Install Required Libraries
+```bash
+pip install -r requirements.txt
+
+### 3. Run the Project
+```bash
+heart_disease.py
+
+
