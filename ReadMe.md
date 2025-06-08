@@ -57,33 +57,20 @@ Heart disease is one of the leading causes of death globally. Early detection ca
 
 ---
 
-## 🎯 SDG Impact
+## 🌐 Deployment and Stretch Goals
 
-This project supports **SDG 3 - Good Health and Well-Being** by demonstrating how AI can enhance preventive healthcare and assist in timely diagnosis of chronic conditions.
+### 🚪 Web App Deployment
+- The model is deployed as a **Streamlit web application**.
+- Users can enter patient data through a web form to receive real-time predictions.
+- The app can be hosted publicly via **Streamlit Cloud**.
 
----
+### 📦 Model Comparison
+- Multiple ML models were trained and evaluated:
+  - Random Forest, Logistic Regression, SVM, Gradient Boosting
+- Random Forest and SVM achieved the best performance (~87% accuracy).
 
-## 📁 Project Structure
+### ✨ Real-Time API Integration
+- Integrated **OpenWeatherMap API** to fetch current weather data (e.g., temperature and humidity).
+- Demonstrates how real-world environmental conditions can be layered into ML-based health predictions.
 
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to run the project on your machine:
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/ireneiroha/Predicting_Heart_Disease.git
-cd Predicting_Heart_Disease
-```
-### 2. Install Required Libraries
-```bash
-pip install -r requirements.txt
-```
-### 3. Run the Project
-```bash
-heart_disease.py
-```
 
